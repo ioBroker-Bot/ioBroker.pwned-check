@@ -133,6 +133,8 @@ The adapter creates data points under `pwned-check.<instance>`.
 
 Older changelogs are available in [CHANGELOG_OLD.md](CHANGELOG_OLD.md).
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 
 MIT License
